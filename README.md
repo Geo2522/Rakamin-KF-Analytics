@@ -5,7 +5,7 @@ dibuat oleh Georgious Valentino Hendrik
 Proyek analisis data Kimia Farma menggunakan **Google BigQuery** untuk data cleaning dan transformasi, serta **Google Looker Studio** untuk visualisasi dashboard.  
 Semua query SQL dikerjakan di BigQuery Console, lalu disimpan di repo ini untuk dokumentasi dan version control.
 
-## Struktur Folder
+## Struktur File
 - `sql/cleaning/` → Query untuk membersihkan data (inventory, transaksi, cabang, produk).
 - `sql/analysis/` → Query untuk analisis.
 - `dashboard/` → Catatan atau link ke Looker Studio dashboard.
