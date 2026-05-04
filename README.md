@@ -17,7 +17,7 @@ Semua query SQL dikerjakan di BigQuery Console, lalu disimpan di repo ini untuk 
 - GitHub
 
 ## Dashboard
-Link: *()*
+Link: *(https://datastudio.google.com/reporting/9454642d-ce2b-4b32-a30a-93da0b1ec9f1)*
 
 ## Catatan
 - Semua query menggunakan `CREATE OR REPLACE TABLE` agar hasil selalu update.
