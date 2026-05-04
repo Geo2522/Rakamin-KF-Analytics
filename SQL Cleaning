@@ -1,0 +1,4 @@
+sql/cleaning/Cleaning Inventory.sql
+sql/cleaning/Cleaning KF Product.sql
+sql/cleaning/Cleaning KF Final Transaction.sql
+sql/cleaning/Cleaning KF Kantor Cabang.sql
